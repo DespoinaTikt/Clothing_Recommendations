@@ -9,7 +9,7 @@ First I asked ChatGpt to help me transform the code into Javascript in order to 
 
 ## Create and configure bucket
 
-Then I create my bucket, enable public access, stati website hosting and upload an appropriate policy.
+Then I create my bucket, enable public access, static website hosting and upload an appropriate policy.
 
 ![Screenshot (133)](https://github.com/DespoinaTikt/AWS_S3_2nd_Static_Website/assets/166096217/830b042c-d1db-4e4d-876f-948e592306ad)
 ![Screenshot (134)](https://github.com/DespoinaTikt/AWS_S3_2nd_Static_Website/assets/166096217/0876e91a-3a08-4d2d-b7d1-01c06fb29a0c)

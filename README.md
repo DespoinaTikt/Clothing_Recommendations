@@ -1,4 +1,4 @@
-# AWS_S3_2nd_Static_Website
+# AWS_S3_Clothing_Recommendations
 
 Infuenced by the python script I wrote, with clothing recommendations based on weather specification input by the user, I decided it to host it on an S3 bucket as a static website.
 

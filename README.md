@@ -3,10 +3,6 @@
 Infuenced by the python script I wrote, with clothing recommendations based on weather specification input by the user, I decided it to host it on an S3 bucket as a static website.
 
 
-## Prepare the files
-
-First I asked ChatGpt to help me transform the code into Javascript in order to run properly and help me create the html file. 
-
 ## Create and configure bucket
 
 Then I create my bucket, enable public access, static website hosting and upload an appropriate policy.

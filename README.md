@@ -1,4 +1,4 @@
-# AWS_S3_Clothing_Recommendations
+# Clothing_Recommendations
 
 Infuenced by another script I wrote, with clothing recommendations based on weather specification input by the user, I decided to host it on an S3 bucket as a static website.
 
